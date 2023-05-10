@@ -1,0 +1,2 @@
+# Demo rollup treeshaking pure
+
