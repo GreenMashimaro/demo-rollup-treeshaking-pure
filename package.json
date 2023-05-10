@@ -1,0 +1,15 @@
+{
+  "name": "demo-rollup-treeshaking-pure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup input.js -f esm -o buildle.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^3.21.6"
+  }
+}
